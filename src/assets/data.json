@@ -1,0 +1,889 @@
+{
+  "hits": [
+    {
+      "created_at": "2016-02-05T15:41:47.000Z",
+      "title": "ZCash (formerly Zerocash/Zerocoin) technology preview",
+      "url": "https://z.cash/blog/helloworld.html",
+      "author": "malgorithms",
+      "points": 240,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 109,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1454686907,
+      "relevancy_score": 6532,
+      "_tags": [
+        "story",
+        "author_malgorithms",
+        "story_11042096"
+      ],
+      "objectID": "11042096",
+      "_highlightResult": {
+        "title": {
+          "value": "ZCash (formerly Zerocash/Zerocoin) \u003cem\u003etechnology\u003c/em\u003e preview",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "technology"
+          ]
+        },
+        "url": {
+          "value": "https://z.cash/blog/helloworld.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "malgorithms",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2018-04-08T10:54:39.000Z",
+      "title": "Nikon versus Canon: A Story of Technology Change",
+      "url": "https://medium.learningbyshipping.com/nikon-versus-canon-a-story-of-technology-change-45777098038c",
+      "author": "tomaskafka",
+      "points": 239,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 184,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1523184879,
+      "relevancy_score": 8051,
+      "_tags": [
+        "story",
+        "author_tomaskafka",
+        "story_16785552"
+      ],
+      "objectID": "16785552",
+      "_highlightResult": {
+        "title": {
+          "value": "Nikon versus Canon: A Story of \u003cem\u003eTechnology\u003c/em\u003e Change",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "technology"
+          ]
+        },
+        "url": {
+          "value": "https://medium.learningbyshipping.com/nikon-versus-canon-a-story-of-\u003cem\u003etechnology\u003c/em\u003e-change-45777098038c",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "technology"
+          ]
+        },
+        "author": {
+          "value": "tomaskafka",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2018-08-03T04:03:26.000Z",
+      "title": "GE Engineer Linked to China Stole Power Plant Technology, FBI Says",
+      "url": "https://www.wsj.com/articles/ge-engineer-linked-to-china-allegedly-stole-power-plant-technology-fbi-says-1533235590",
+      "author": "propman",
+      "points": 232,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 222,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1533269006,
+      "relevancy_score": 8279,
+      "_tags": [
+        "story",
+        "author_propman",
+        "story_17677214"
+      ],
+      "objectID": "17677214",
+      "_highlightResult": {
+        "title": {
+          "value": "GE Engineer Linked to China Stole Power Plant \u003cem\u003eTechnology\u003c/em\u003e, FBI Says",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "technology"
+          ]
+        },
+        "url": {
+          "value": "https://www.wsj.com/articles/ge-engineer-linked-to-china-allegedly-stole-power-plant-\u003cem\u003etechnology\u003c/em\u003e-fbi-says-1533235590",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "technology"
+          ]
+        },
+        "author": {
+          "value": "propman",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2016-12-09T00:41:48.000Z",
+      "title": "Magic Leap’s technology may be years away from completion",
+      "url": "http://www.theverge.com/2016/12/8/13894000/magic-leap-ar-microsoft-hololens-way-behind",
+      "author": "evilnig",
+      "points": 232,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 170,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1481244108,
+      "relevancy_score": 7123,
+      "_tags": [
+        "story",
+        "author_evilnig",
+        "story_13135735"
+      ],
+      "objectID": "13135735",
+      "_highlightResult": {
+        "title": {
+          "value": "Magic Leap’s \u003cem\u003etechnology\u003c/em\u003e may be years away from completion",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "technology"
+          ]
+        },
+        "url": {
+          "value": "http://www.theverge.com/2016/12/8/13894000/magic-leap-ar-microsoft-hololens-way-behind",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "evilnig",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2013-09-30T19:23:36.000Z",
+      "title": "BitTorrent Chat - Private instant messaging via secure, distributed technology",
+      "url": "http://labs.bittorrent.com/experiments/bittorrent-chat.html",
+      "author": "lolololololo",
+      "points": 230,
+      "story_text": "",
+      "comment_text": null,
+      "num_comments": 104,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1380569016,
+      "relevancy_score": 4892,
+      "_tags": [
+        "story",
+        "author_lolololololo",
+        "story_6471697"
+      ],
+      "objectID": "6471697",
+      "_highlightResult": {
+        "title": {
+          "value": "BitTorrent Chat - Private instant messaging via secure, distributed \u003cem\u003etechnology\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "technology"
+          ]
+        },
+        "url": {
+          "value": "http://labs.bittorrent.com/experiments/bittorrent-chat.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "lolololololo",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-05-15T14:49:24.000Z",
+      "title": "Judge orders Uber not to use technology taken from Waymo",
+      "url": "http://www.seattletimes.com/business/judge-orders-uber-not-to-use-technology-taken-from-waymo/",
+      "author": "abhi3",
+      "points": 224,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 123,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1494859764,
+      "relevancy_score": 7432,
+      "_tags": [
+        "story",
+        "author_abhi3",
+        "story_14341972"
+      ],
+      "objectID": "14341972",
+      "_highlightResult": {
+        "title": {
+          "value": "Judge orders Uber not to use \u003cem\u003etechnology\u003c/em\u003e taken from Waymo",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "technology"
+          ]
+        },
+        "url": {
+          "value": "http://www.seattletimes.com/business/judge-orders-uber-not-to-use-\u003cem\u003etechnology\u003c/em\u003e-taken-from-waymo/",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "technology"
+          ]
+        },
+        "author": {
+          "value": "abhi3",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-08-28T23:31:53.000Z",
+      "title": "When an experiment with existing technology does a “good enough” job",
+      "url": "https://medium.com/@taitems/how-i-replicated-an-86-million-project-in-57-lines-of-code-277031330ee9",
+      "author": "xelfer",
+      "points": 223,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 92,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1503963113,
+      "relevancy_score": 7634,
+      "_tags": [
+        "story",
+        "author_xelfer",
+        "story_15121020"
+      ],
+      "objectID": "15121020",
+      "_highlightResult": {
+        "title": {
+          "value": "When an experiment with existing \u003cem\u003etechnology\u003c/em\u003e does a “good enough” job",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "technology"
+          ]
+        },
+        "url": {
+          "value": "https://medium.com/@taitems/how-i-replicated-an-86-million-project-in-57-lines-of-code-277031330ee9",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "xelfer",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2018-09-26T14:49:01.000Z",
+      "title": "How China Systematically Pries Technology from U.S. Companies",
+      "url": "https://www.wsj.com/articles/how-china-systematically-pries-technology-from-u-s-companies-1537972066",
+      "author": "petethomas",
+      "points": 221,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 199,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1537973341,
+      "relevancy_score": 8387,
+      "_tags": [
+        "story",
+        "author_petethomas",
+        "story_18076485"
+      ],
+      "objectID": "18076485",
+      "_highlightResult": {
+        "title": {
+          "value": "How China Systematically Pries \u003cem\u003eTechnology\u003c/em\u003e from U.S. Companies",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "technology"
+          ]
+        },
+        "url": {
+          "value": "https://www.wsj.com/articles/how-china-systematically-pries-\u003cem\u003etechnology\u003c/em\u003e-from-u-s-companies-1537972066",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "technology"
+          ]
+        },
+        "author": {
+          "value": "petethomas",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2011-02-16T20:31:29.000Z",
+      "title": "The Technology Behind Convore",
+      "url": "http://www.eflorenzano.com/blog/post/technology-behind-convore/",
+      "author": "conesus",
+      "points": 220,
+      "story_text": "",
+      "comment_text": null,
+      "num_comments": 36,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1297888289,
+      "relevancy_score": 3051,
+      "_tags": [
+        "story",
+        "author_conesus",
+        "story_2228137"
+      ],
+      "objectID": "2228137",
+      "_highlightResult": {
+        "title": {
+          "value": "The \u003cem\u003eTechnology\u003c/em\u003e Behind Convore",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "technology"
+          ]
+        },
+        "url": {
+          "value": "http://www.eflorenzano.com/blog/post/\u003cem\u003etechnology\u003c/em\u003e-behind-convore/",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "technology"
+          ]
+        },
+        "author": {
+          "value": "conesus",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2018-05-08T19:20:32.000Z",
+      "title": "Great technology should improve life, not distract from it",
+      "url": "https://wellbeing.google/",
+      "author": "panarky",
+      "points": 219,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 110,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1525807232,
+      "relevancy_score": 8118,
+      "_tags": [
+        "story",
+        "author_panarky",
+        "story_17023917"
+      ],
+      "objectID": "17023917",
+      "_highlightResult": {
+        "title": {
+          "value": "Great \u003cem\u003etechnology\u003c/em\u003e should improve life, not distract from it",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "technology"
+          ]
+        },
+        "url": {
+          "value": "https://wellbeing.google/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "panarky",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-05-15T19:51:08.000Z",
+      "title": "The boring technology behind a one-person Internet company (2018)",
+      "url": "https://www.listennotes.com/blog/the-boring-technology-behind-a-one-person-23/",
+      "author": "dilly_li",
+      "points": 217,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 27,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1589572268,
+      "_tags": [
+        "story",
+        "author_dilly_li",
+        "story_23196626"
+      ],
+      "objectID": "23196626",
+      "_highlightResult": {
+        "title": {
+          "value": "The boring \u003cem\u003etechnology\u003c/em\u003e behind a one-person Internet company (2018)",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "technology"
+          ]
+        },
+        "url": {
+          "value": "https://www.listennotes.com/blog/the-boring-\u003cem\u003etechnology\u003c/em\u003e-behind-a-one-person-23/",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "technology"
+          ]
+        },
+        "author": {
+          "value": "dilly_li",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-01-23T19:42:22.000Z",
+      "title": "European Union Calls for Five Year Strict Ban on Facial Recognition Technology",
+      "url": "https://techgrabyte.com/european-union-five-year-ban-facial-recognition/",
+      "author": "Anon84",
+      "points": 208,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 120,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1579808542,
+      "_tags": [
+        "story",
+        "author_Anon84",
+        "story_22131042"
+      ],
+      "objectID": "22131042",
+      "_highlightResult": {
+        "title": {
+          "value": "European Union Calls for Five Year Strict Ban on Facial Recognition \u003cem\u003eTechnology\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "technology"
+          ]
+        },
+        "url": {
+          "value": "https://techgrabyte.com/european-union-five-year-ban-facial-recognition/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "Anon84",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2019-06-24T02:53:11.000Z",
+      "title": "Why are large companies so difficult to rescue (regarding internal technology)",
+      "url": "http://www.smashcompany.com/business/why-are-large-companies-so-difficult-to-rescue-regarding-bad-internal-technology",
+      "author": "lkrubner",
+      "points": 208,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 117,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1561344791,
+      "relevancy_score": 8911,
+      "_tags": [
+        "story",
+        "author_lkrubner",
+        "story_20260114"
+      ],
+      "objectID": "20260114",
+      "_highlightResult": {
+        "title": {
+          "value": "Why are large companies so difficult to rescue (regarding internal \u003cem\u003etechnology\u003c/em\u003e)",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "technology"
+          ]
+        },
+        "url": {
+          "value": "http://www.smashcompany.com/business/why-are-large-companies-so-difficult-to-rescue-regarding-bad-internal-\u003cem\u003etechnology\u003c/em\u003e",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "technology"
+          ]
+        },
+        "author": {
+          "value": "lkrubner",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2016-12-08T19:11:44.000Z",
+      "title": "Safari Technology Preview supports 100% of the ES2015/16/17 features",
+      "url": "http://kangax.github.io/compat-table/es2016plus/#safaritp",
+      "author": "nacs",
+      "points": 202,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 124,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1481224304,
+      "relevancy_score": 7123,
+      "_tags": [
+        "story",
+        "author_nacs",
+        "story_13133135"
+      ],
+      "objectID": "13133135",
+      "_highlightResult": {
+        "title": {
+          "value": "Safari \u003cem\u003eTechnology\u003c/em\u003e Preview supports 100% of the ES2015/16/17 features",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "technology"
+          ]
+        },
+        "url": {
+          "value": "http://kangax.github.io/compat-table/es2016plus/#safaritp",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "nacs",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2019-05-14T22:08:49.000Z",
+      "title": "San Francisco bans facial recognition technology by municipal agencies",
+      "url": "https://www.nytimes.com/2019/05/14/us/facial-recognition-ban-san-francisco.html",
+      "author": "dcschelt",
+      "points": 199,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 119,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1557871729,
+      "relevancy_score": 8830,
+      "_tags": [
+        "story",
+        "author_dcschelt",
+        "story_19914324"
+      ],
+      "objectID": "19914324",
+      "_highlightResult": {
+        "title": {
+          "value": "San Francisco bans facial recognition \u003cem\u003etechnology\u003c/em\u003e by municipal agencies",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "technology"
+          ]
+        },
+        "url": {
+          "value": "https://www.nytimes.com/2019/05/14/us/facial-recognition-ban-san-francisco.html",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "dcschelt",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-03-22T13:52:17.000Z",
+      "title": "Two major US technology firms 'tricked out of $100M'",
+      "url": "http://www.bbc.co.uk/news/technology-39351215",
+      "author": "RijilV",
+      "points": 197,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 120,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1490190737,
+      "relevancy_score": 7325,
+      "_tags": [
+        "story",
+        "author_RijilV",
+        "story_13930847"
+      ],
+      "objectID": "13930847",
+      "_highlightResult": {
+        "title": {
+          "value": "Two major US \u003cem\u003etechnology\u003c/em\u003e firms 'tricked out of $100M'",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "technology"
+          ]
+        },
+        "url": {
+          "value": "http://www.bbc.co.uk/news/\u003cem\u003etechnology\u003c/em\u003e-39351215",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "technology"
+          ]
+        },
+        "author": {
+          "value": "RijilV",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2020-06-20T07:35:42.000Z",
+      "title": "A Technology Preview of Nginx Support for QUIC and HTTP/3",
+      "url": "https://www.nginx.com/blog/introducing-technology-preview-nginx-support-for-quic-http-3/",
+      "author": "signa11",
+      "points": 197,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 104,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1592638542,
+      "_tags": [
+        "story",
+        "author_signa11",
+        "story_23582451"
+      ],
+      "objectID": "23582451",
+      "_highlightResult": {
+        "title": {
+          "value": "A \u003cem\u003eTechnology\u003c/em\u003e Preview of Nginx Support for QUIC and HTTP/3",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "technology"
+          ]
+        },
+        "url": {
+          "value": "https://www.nginx.com/blog/introducing-\u003cem\u003etechnology\u003c/em\u003e-preview-nginx-support-for-quic-http-3/",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "technology"
+          ]
+        },
+        "author": {
+          "value": "signa11",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2019-12-20T15:46:00.000Z",
+      "title": "Navy’s flawed technology set the USS John McCain up for disaster",
+      "url": "https://features.propublica.org/navy-uss-mccain-crash/navy-installed-touch-screen-steering-ten-sailors-paid-with-their-lives/",
+      "author": "thomasjudge",
+      "points": 194,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 144,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1576856760,
+      "_tags": [
+        "story",
+        "author_thomasjudge",
+        "story_21844963"
+      ],
+      "objectID": "21844963",
+      "_highlightResult": {
+        "title": {
+          "value": "Navy’s flawed \u003cem\u003etechnology\u003c/em\u003e set the USS John McCain up for disaster",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "technology"
+          ]
+        },
+        "url": {
+          "value": "https://features.propublica.org/navy-uss-mccain-crash/navy-installed-touch-screen-steering-ten-sailors-paid-with-their-lives/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "thomasjudge",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    },
+    {
+      "created_at": "2017-01-24T03:11:00.000Z",
+      "title": "Ask HN: What's happening in agricultural technology?",
+      "url": null,
+      "author": "tabeth",
+      "points": 194,
+      "story_text": "Not sure if there are any experts here, but if there are, I\u0026#x27;m quite curious about the following:\u003cp\u003e1. Do we have any technology (independent of cost) existing today to have a fully automated farm? Meaning, set everything up and it\u0026#x27;ll just spit out yield? This would include taking into account weather, planting, removing weeds, etc. The input into this \u0026quot;system\u0026quot; of course would be the \u0026quot;ingredients\u0026quot; such as soil, soil, and of course, sunlight.  [1]\u003cp\u003e2. What\u0026#x27;s the maximum yield we can get out of an acre these days? If I wanted to buy, say, an acre (for food) and start a small town in southern United States and feed 1000 people easily, is that possible? For simplicity let\u0026#x27;s say everyone is vegan.\u003cp\u003e[1] Here\u0026#x27;s a snippet of research I\u0026#x27;ve done that may be of interest to readers.\u003cp\u003eAir and soil: There\u0026#x27;s been some advancements in sensors which is an obvious requisite towards the auto-farm. However I haven\u0026#x27;t read anything recently about this. Most recent was (http:\u0026#x2F;\u0026#x2F;gizmodo.com\u0026#x2F;swarms-of-soil-sensors-may-help-farmers-water-smarter-d-1713098054)\u003cp\u003eRobotics: I know they (farm bots) exist (http:\u0026#x2F;\u0026#x2F;modernfarmer.com\u0026#x2F;2013\u0026#x2F;08\u0026#x2F;5-robots-on-the-farm\u0026#x2F;), but I haven\u0026#x27;t heard of them actually being more productive than existing high-yield solutions. I do think in the end they\u0026#x27;ll be superior.\u003cp\u003eThe single most advanced modern farm I\u0026#x27;ve heard of is: http:\u0026#x2F;\u0026#x2F;seedstock.com\u0026#x2F;2013\u0026#x2F;01\u0026#x2F;24\u0026#x2F;indoor-grower\u0026#x2F;. Anyone know of anything that surpasses this? Just making farming (perhaps one of the most labor intensive things you can do these days) less of a burden will prove to be a game changer (e.g. you may find a single person willing and able to maintain an entire one acre farm).",
+      "comment_text": null,
+      "num_comments": 143,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1485227460,
+      "relevancy_score": 7217,
+      "_tags": [
+        "story",
+        "author_tabeth",
+        "story_13468508",
+        "ask_hn"
+      ],
+      "objectID": "13468508",
+      "_highlightResult": {
+        "title": {
+          "value": "Ask HN: What's happening in agricultural \u003cem\u003etechnology\u003c/em\u003e?",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "technology"
+          ]
+        },
+        "author": {
+          "value": "tabeth",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "story_text": {
+          "value": "Not sure if there are any experts here, but if there are, I'm quite curious about the following:\u003cp\u003e1. Do we have any \u003cem\u003etechnology\u003c/em\u003e (independent of cost) existing today to have a fully automated farm? Meaning, set everything up and it'll just spit out yield? This would include taking into account weather, planting, removing weeds, etc. The input into this \u0026quot;system\u0026quot; of course would be the \u0026quot;ingredients\u0026quot; such as soil, soil, and of course, sunlight.  [1]\u003cp\u003e2. What's the maximum yield we can get out of an acre these days? If I wanted to buy, say, an acre (for food) and start a small town in southern United States and feed 1000 people easily, is that possible? For simplicity let's say everyone is vegan.\u003cp\u003e[1] Here's a snippet of research I've done that may be of interest to readers.\u003cp\u003eAir and soil: There's been some advancements in sensors which is an obvious requisite towards the auto-farm. However I haven't read anything recently about this. Most recent was (http://gizmodo.com/swarms-of-soil-sensors-may-help-farmers-water-smarter-d-1713098054)\u003cp\u003eRobotics: I know they (farm bots) exist (http://modernfarmer.com/2013/08/5-robots-on-the-farm/), but I haven't heard of them actually being more productive than existing high-yield solutions. I do think in the end they'll be superior.\u003cp\u003eThe single most advanced modern farm I've heard of is: http://seedstock.com/2013/01/24/indoor-grower/. Anyone know of anything that surpasses this? Just making farming (perhaps one of the most labor intensive things you can do these days) less of a burden will prove to be a game changer (e.g. you may find a single person willing and able to maintain an entire one acre farm).",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "technology"
+          ]
+        }
+      }
+    },
+    {
+      "created_at": "2018-03-02T14:58:40.000Z",
+      "title": "Norway Used NSA Technology for Potentially Illegal Spying",
+      "url": "https://theintercept.com/2018/03/01/norway-nsa-victory-garden-surveillance/",
+      "author": "georgecmu",
+      "points": 192,
+      "story_text": null,
+      "comment_text": null,
+      "num_comments": 69,
+      "story_id": null,
+      "story_title": null,
+      "story_url": null,
+      "parent_id": null,
+      "created_at_i": 1520002720,
+      "relevancy_score": 7983,
+      "_tags": [
+        "story",
+        "author_georgecmu",
+        "story_16501847"
+      ],
+      "objectID": "16501847",
+      "_highlightResult": {
+        "title": {
+          "value": "Norway Used NSA \u003cem\u003eTechnology\u003c/em\u003e for Potentially Illegal Spying",
+          "matchLevel": "full",
+          "fullyHighlighted": false,
+          "matchedWords": [
+            "technology"
+          ]
+        },
+        "url": {
+          "value": "https://theintercept.com/2018/03/01/norway-nsa-victory-garden-surveillance/",
+          "matchLevel": "none",
+          "matchedWords": []
+        },
+        "author": {
+          "value": "georgecmu",
+          "matchLevel": "none",
+          "matchedWords": []
+        }
+      }
+    }
+  ],
+  "nbHits": 290607,
+  "page": 3,
+  "nbPages": 50,
+  "hitsPerPage": 20,
+  "exhaustiveNbHits": false,
+  "query": "technology",
+  "params": "advancedSyntax=true\u0026analytics=true\u0026analyticsTags=backend\u0026page=3\u0026query=technology",
+  "processingTimeMS": 2
+}
