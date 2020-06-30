@@ -6,6 +6,7 @@ import {RestService} from "../../services/RestService";
 import NewsItem from "./NewsItem";
 import './Home.css';
 import Chart from "./Chart";
+import {Storage} from "../../services/StorageService";
 
 class Home extends React.Component {
 
@@ -17,10 +18,17 @@ class Home extends React.Component {
   getData = () => {
     const page = this.state.page;
     RestService.get('/data.php?page=' + page).then((res) => {
-      console.log(res);
-      this.setState({data: res.data.hits, isLoading: false})
+      const finalData = res.data.hits.map((item) => {
+        item.points = Storage.get(item.objectID) || item.points;
+        return item;
+      });
+      this.setState({data: finalData, isLoading: false})
     }).catch(() => this.setState({isLoading: false}));
-    // this.setState({data: data.hits, isLoading: false})
+    // const finalData = data.hits.map((item) => {
+    //   item.points = Storage.get(item.objectID) || item.points;
+    //   return item;
+    // });
+    // this.setState({data: finalData, isLoading: false})
   };
 
   componentDidMount() {
@@ -34,6 +42,7 @@ class Home extends React.Component {
     item.points = ++points;
     data.splice(index, 1, item);
     this.setState({data: data});
+    Storage.set(item.objectID, item.points);
   };
 
   handleHide = (item) => {

@@ -9,7 +9,7 @@ class Chart extends React.Component {
   };
 
   getYvalues = (data) => {
-    return data.map((item) => item.points);
+    return data.map((item) => parseInt(item.points));
   };
 
   render() {
@@ -34,12 +34,12 @@ class Chart extends React.Component {
       },
 
       plotOptions: {
-        series: [{
+        series: {
           label: {
             connectorAllowed: true
           },
-          pointStart: 2010
-        }]
+          animation: false
+        }
       },
 
       series: [{
