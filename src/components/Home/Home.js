@@ -18,16 +18,24 @@ class Home extends React.Component {
   getData = () => {
     const page = this.state.page;
     RestService.get('/data.php?page=' + page).then((res) => {
+      const hidden = Storage.get('delete') || [];
       const finalData = res.data.hits.map((item) => {
-        item.points = Storage.get(item.objectID) || item.points;
-        return item;
-      });
+        if(!hidden.includes(item.objectID)) {
+          item.points = Storage.get(item.objectID) || item.points;
+          return item;
+        }
+        return;
+      }).filter((item) => item !== undefined);
       this.setState({data: finalData, isLoading: false})
     }).catch(() => this.setState({isLoading: false}));
+    // const hidden = Storage.get('delete') || [];
     // const finalData = data.hits.map((item) => {
-    //   item.points = Storage.get(item.objectID) || item.points;
-    //   return item;
-    // });
+    //   if(!hidden.includes(item.objectID)) {
+    //     item.points = Storage.get(item.objectID) || item.points;
+    //     return item;
+    //   }
+    // }).filter((item) => item !== undefined);
+    // // console.log(finalData);
     // this.setState({data: finalData, isLoading: false})
   };
 
@@ -50,13 +58,16 @@ class Home extends React.Component {
     const index = data.indexOf(item);
     data.splice(index, 1);
     this.setState({data: data});
+    const hide = Storage.get('delete');
+    const hidden = hide ? hide + ',' + item.objectID : item.objectID;
+    Storage.set('delete', hidden);
   };
 
   updatePage = (type) => {
     const page = this.state.page;
     let pageInt = parseInt(page);
-    const pageFinal = type == 1 ? pageInt + 1 : pageInt - 1;
-    if (pageFinal != 0) {
+    const pageFinal = type === 1 ? pageInt + 1 : pageInt - 1;
+    if (pageFinal !== 0) {
       this.setState({page: pageFinal}, () => this.getData());
     }
   };
